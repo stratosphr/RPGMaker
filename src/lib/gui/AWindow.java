@@ -15,6 +15,7 @@ public abstract class AWindow extends JFrame {
     private Vector position;
     private Vector dimension;
 
+    @SuppressWarnings("WeakerAccess")
     public AWindow(String title, Vector dimension, Container mainContainer) {
         super(title);
         this.setPreferredSize(new Dimension(dimension.getWidth(), dimension.getHeight()));
