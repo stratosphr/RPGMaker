@@ -1,4 +1,4 @@
-package geometry;
+package lib.geometry;
 
 /**
  * Created by stratosphr on 04/07/2018.

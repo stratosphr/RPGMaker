@@ -1,6 +1,6 @@
 package lib.gui;
 
-import geometry.Vector;
+import lib.geometry.Vector;
 
 import javax.swing.*;
 import java.awt.*;

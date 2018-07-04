@@ -1,4 +1,4 @@
-import geometry.Vector;
+import lib.geometry.Vector;
 import gui.MainPanel;
 import gui.MainWindow;
 

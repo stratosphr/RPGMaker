@@ -1,6 +1,6 @@
 package gui;
 
-import geometry.Vector;
+import lib.geometry.Vector;
 import lib.gui.AWindow;
 
 import java.awt.*;
