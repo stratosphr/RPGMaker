@@ -60,9 +60,9 @@ public abstract class AWindow extends JFrame {
         dispose();
         setUndecorated(true);
         setExtendedState(JFrame.MAXIMIZED_BOTH);
-        open();
     }
 
+    @SuppressWarnings("WeakerAccess")
     public final void close() {
         onClose();
     }

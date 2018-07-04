@@ -8,8 +8,6 @@ public class Main {
         MainWindow mainWindow = new MainWindow("Test", new Vector(800, 600), new MainPanel());
         mainWindow.setFullScreen();
         mainWindow.open();
-        mainWindow.minimize();
-        mainWindow.close();
     }
 
 }
